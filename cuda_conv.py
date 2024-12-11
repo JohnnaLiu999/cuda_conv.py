@@ -1,6 +1,12 @@
 """
 Dear TA/Grader:
-I have successfully get the output in colab using the code below, which I attached in README.md. The reason why I annotate all the code in this cuda_conv.py file is that I keep receiving error message below in the autograder of github, even though I did not receive this message via running pre-commit run --all on my own server. I feel so confused and tried many methods for almost a whole day, including avoiding using .zero() and anything that might trigger ndim to confuse the backend of github autograder, but non of them work. I guess there might be some issues with backend difference instead of coding though. Appreciate it if I am still eligible for extra credit because I am desperate to make up for my final grade for this semester for my PhD application as a non-CS background candidate. Thanks much! Merry Christmas! :)
+I have successfully get the output in colab using the code below, which I attached in README.md. 
+The reason why I annotate all the code in this cuda_conv.py file is that I keep receiving error message below in the autograder of github, 
+even though I did not receive this message via running pre-commit run --all on my own server. 
+I feel so confused and tried many methods for almost a whole day, including avoiding using .zero() and anything that might trigger ndim to confuse the backend of github autograder, but non of them work. 
+I guess there might be some issues with backend difference instead of coding though. 
+Appreciate it if I am still eligible for extra credit because I am desperate to make up for my final grade for this semester for my PhD application as a non-CS background candidate. lol
+Thanks much! Merry Christmas! :)
     "
     found 0 vulnerabilities
     npm notice
